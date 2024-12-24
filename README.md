@@ -1,7 +1,5 @@
 ###### Hi there, 
 My name is **Johnson Muchiri**
-I am **Frontend Web Developer**. I love transforming any design into its equivalent web app using **Tailwindcss, Nextjs, Reactjs, Typescript, Python**.
-I am **open** to **job** or **internship** offers.
 
 Passionate **Front-end Developer, SEO Expert & UI/UX Designer** committed to creating visually appealing, user-friendly, and optimized websites.
 
