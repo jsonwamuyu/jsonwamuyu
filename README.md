@@ -15,5 +15,3 @@ I align quality engineering (auto-tests, CI/CD) and full-stack development (fron
 
 ## Contact:
 Email: jysonmuchiri@gmail.com | LinkedIn: www.linkedin.com/in/johnson-muchiri-wamuyu 
-
-Professional, well-balanced, and value-driven—this statement reflects your rare mix of technical prowess and people-focussed design.
