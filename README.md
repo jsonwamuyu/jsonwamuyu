@@ -2,11 +2,11 @@
 ## About Me
 I am a **Full-stack Developer, QA & QE Specialist, SEO Expert, and UI/UX Designer** passionate about building robust, scalable, and user-friendly digital experiences.
 ## Tech Stack:
-Frontend: React, Angular, HTML/CSS/JS, Tailwind CSS
+Frontend: Reactjs, Nextjs, Storybook, HTML/CSS/JS, Tailwind CSS
 
-Backend: React.js, Typescript, Node.js, Python, Express.js, MongoDB, MySQL
+Backend: React.js, Typescript, Node.js, Express.js, Python, MongoDB, MySQL
 
-QA/QE: Cypress, Jest, Postman
+QA/QE: Cypress, Jest, Postman, Vtest
 
 DevOps: Git, Docker, CI/CD Pipelines, AWS S3
 
