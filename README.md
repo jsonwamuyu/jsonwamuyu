@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Johnson Muchiri 
 ## About Me
-I am a **Full-stack Developer** passionate about building robust, scalable, and user-friendly digital experiences.
+I am a **Full-stack Web Developer** passionate about building robust, scalable, and user-friendly digital experiences.
 ## Tech Stack:
 Frontend: Reactjs, Nextjs, Storybook, HTML/CSS/JS, Tailwind CSS
 
