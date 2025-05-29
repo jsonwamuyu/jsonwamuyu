@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Johnson Muchiri 
 ## About Me
-I am a **Full-stack Developer, QA & QE Specialist, SEO Expert, and UI/UX Designer** passionate about building robust, scalable, and user-friendly digital experiences.
+I am a **Full-stack Developer** passionate about building robust, scalable, and user-friendly digital experiences.
 ## Tech Stack:
 Frontend: Reactjs, Nextjs, Storybook, HTML/CSS/JS, Tailwind CSS
 
-Backend: React.js, Typescript, Node.js, Express.js, Python, MongoDB, MySQL
+Backend: Django + DRF,Python, GraphQL Node.js, Express.js, MongoDB, MySQL
 
 QA/QE: Cypress, Jest, Postman, Vtest
 
